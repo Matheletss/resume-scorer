@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.resume_env/
+*.DS_Store
+temp_resume.pdf

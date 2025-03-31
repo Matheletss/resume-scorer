@@ -1,0 +1,13 @@
+numpy==1.24.4
+spacy==3.6.1
+pyresparser==1.0.6
+sentence-transformers==2.2.2
+pdfminer.six==20221105
+nltk==3.8.1
+pandas==1.5.3
+python-docx==0.8.11
+tqdm==4.66.2
+streamlit==1.33.0
+transformers==4.30.2
+huggingface-hub==0.16.4
+tokenizers==0.13.3
